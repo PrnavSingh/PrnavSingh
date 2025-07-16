@@ -18,6 +18,9 @@
   <a href="https://www.geeksforgeeks.org/user/thakur_pranav/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
+  <a href="https://codolio.com/profile/PRAMP" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-1A1A1A?style=for-the-badge&logo=data&logoColor=white" />
+  </a>
   <a href="https://github.com/PrnavSingh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
