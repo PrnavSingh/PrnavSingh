@@ -7,7 +7,7 @@
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Professional Links
 <p align="left">
   <a href="https://www.linkedin.com/in/pranav-singh-thakur/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
