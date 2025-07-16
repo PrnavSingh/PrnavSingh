@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI | ML | Java | DSA | C++ | Python | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Student;Java+%7C+Python+%7C+C%2B%2B+Programmer;DSA+Lover+%7C+Tech+Enthusiast;Learning+by+building+projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Student;Java+%7C+Python+%7C+C%2B%2B+Programmer;DSA+PAGLU+%7C+Tech+Enthusiast;Learning+by+building+projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
